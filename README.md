@@ -85,3 +85,8 @@ Models used:
 ```bash
 git clone https://github.com/rai8053/breast-cancer-prediction
 cd breast-cancer-prediction
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch notebook
+jupyter notebook Breast-Cancer-Prediction.ipynb
